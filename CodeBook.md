@@ -1,6 +1,6 @@
 # Codebook for Coursera's final project on getting & Cleaning Data Course
 
-Please refer to the README.txt file of the original dataset to get a better understanding of hte meaning of the variables:
+Please refer to the README.txt file of the original dataset to get a better understanding of the meaning of the variables:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
